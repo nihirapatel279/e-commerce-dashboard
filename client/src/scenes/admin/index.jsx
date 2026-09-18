@@ -12,7 +12,7 @@ const Admin = () => {
   const columns = [
     {
       field: "_id",
-      headerName: "ID",
+      headerName: "User ID",
       flex: 1,
     },
     {
